@@ -3,15 +3,22 @@
 }
 
 .titulo{
-    font-size: 30px;
+    font-size: 2.5em;
     color: steelblue;
 }
 .subtitulo{
-    font-size: 20px;
+    font-size: 2em;
     color: saddlebrown;
 }
 
 
 .logo{
-    size: 200px;
+    size: 1em;
+}
+
+#titulos {
+    border: 2px, solid, black;
+    width: 65vw;
+    margin:auto;
+    padding: 1em;
 }
